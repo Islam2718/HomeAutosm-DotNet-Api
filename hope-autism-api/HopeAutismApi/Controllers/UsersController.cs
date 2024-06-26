@@ -10,8 +10,7 @@ namespace HopeAutismApi.Controllers
     {
         private static List<User> Users = new List<User>
         {
-            new User { Id = 1, Username = "John Doe", Email = "john@example.com" },
-            new User { Id = 2, Username = "Jane Smith", Email = "jane@example.com"},
+            new User { Id = 1, Username = "John Doe", Email = "john@example.com", Phone="", FirstName="", LastName="", NidNo="", Role="USER" }
         };
 
         [HttpGet]
