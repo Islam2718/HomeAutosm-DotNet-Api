@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet - Projects\\HopeAutismApi\\",
+  "WorkspaceRootPath": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|d:\\dotnet - projects\\hopeautismapi\\hopeautismapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\controllers\\siteinfoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\controllers\\siteinfoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|d:\\dotnet - projects\\hopeautismapi\\hopeautismapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|d:\\dotnet - projects\\hopeautismapi\\hopeautismapi\\controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\hopeautismapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\hopeautismapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|h:\\hopeautism-dotnet-api\\hope-autism-api\\hopeautismapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B472ABF7-F906-4012-A0C5-3F8F3E2CEC60}|HopeAutismApi\\HopeAutismApi.csproj|solutionrelative:hopeautismapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "HopeAutismApi\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "HopeAutismApi\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAADAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:32:06.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "HopeAutismApi\\Models\\User.cs",
-              "ToolTip": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Models\\User.cs",
-              "RelativeToolTip": "HopeAutismApi\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:30:24.436Z",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HopeAutismApi\\appsettings.Development.json",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\appsettings.Development.json",
+              "RelativeToolTip": "HopeAutismApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T11:09:39.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HelloWorld.cs",
-              "DocumentMoniker": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Controllers\\HelloWorld.cs",
-              "RelativeDocumentMoniker": "HopeAutismApi\\Controllers\\HelloWorld.cs",
-              "ToolTip": "D:\\DotNet - Projects\\HopeAutismApi\\HopeAutismApi\\Controllers\\HelloWorld.cs",
-              "RelativeToolTip": "HopeAutismApi\\Controllers\\HelloWorld.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "HopeAutismApi.http",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\HopeAutismApi.http",
+              "RelativeDocumentMoniker": "HopeAutismApi\\HopeAutismApi.http",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\HopeAutismApi.http",
+              "RelativeToolTip": "HopeAutismApi\\HopeAutismApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-26T11:09:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Program.cs",
+              "RelativeDocumentMoniker": "HopeAutismApi\\Program.cs",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Program.cs",
+              "RelativeToolTip": "HopeAutismApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:20:43.449Z",
+              "WhenOpened": "2024-06-26T11:00:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiteinfosController.cs",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Controllers\\SiteinfosController.cs",
+              "RelativeDocumentMoniker": "HopeAutismApi\\Controllers\\SiteinfosController.cs",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Controllers\\SiteinfosController.cs",
+              "RelativeToolTip": "HopeAutismApi\\Controllers\\SiteinfosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:50:35.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HopeAutismApi\\appsettings.json",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\appsettings.json",
+              "RelativeToolTip": "HopeAutismApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T11:09:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HopeAutismApi\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\HopeAutism-DotNet-Api\\hope-autism-api\\HopeAutismApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HopeAutismApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T11:09:43.859Z",
               "EditorCaption": ""
             }
           ]

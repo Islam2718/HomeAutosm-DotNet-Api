@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HopeAutismApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90713e626000425c6db840dead27df337e2bef0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HopeAutismApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HopeAutismApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
